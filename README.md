@@ -88,13 +88,10 @@ To get started with the course, follow these steps:
 - [Useful Tools and Software](resources/tools.md)
 - [Online Communities for Data Analysts](resources/communities.md)
 
-## FAQs
-
-Have questions? Check out our [FAQs](faqs.md) for answers to common queries.
 
 ## Contact Information
 
-For further assistance or inquiries, feel free to reach out to our support team:
+For further assistance or inquiries, feel free to reach out to me:
 
 - **Email:** nicholasodhiambo2015@gmail.com
 - **Phone:** +254 790400035
